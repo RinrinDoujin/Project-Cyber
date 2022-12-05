@@ -1,0 +1,109 @@
+﻿  bg.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  bossHp.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  building.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  bullet.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  camera.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  collision.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  cutin.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  damage.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  debugproc.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  effect.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  enemy.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  exit.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  fade.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  file.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  gameover.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  hpBar.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  icon.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  input.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  item.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  main.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  math.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  pause.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  player.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  progress.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  renderer.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  result.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  score.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  slow.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  sound.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(85,97): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(85,20): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(97,93): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [29]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(97,20): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(127,112): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 引数 1 を 'char *' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(127,41): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : 'CreateFileW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(130,109): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [40]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(130,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(135,109): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [40]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(135,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(143,98): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(143,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(149,98): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(149,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(154,98): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [34]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(154,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(162,97): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [32]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(162,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(168,97): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [32]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(168,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(176,103): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [36]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(176,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(183,103): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [36]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(183,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(191,91): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [27]' から 'LPCWSTR' へ変換できません。
+C:\Users\User\Desktop\就職活動\Project-Cyber\sound.cpp(191,21): message : 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(9161,1): message : 'MessageBoxW' の宣言を確認してください
+  sprite.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  stop.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  title.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  UI.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  waveController.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\main.h(17,10): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  コードを生成中...

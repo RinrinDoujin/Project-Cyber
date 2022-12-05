@@ -1,0 +1,83 @@
+﻿  bg.cpp
+  bossHp.cpp
+  building.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\building.cpp(89,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\building.cpp(135,39): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  bullet.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(224,48): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(224,28): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(223,99): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(223,69): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(253,100): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(253,70): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(419,42): warning C4244: '=': 'int32_t' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(420,42): warning C4244: '=': 'int32_t' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(454,42): warning C4244: '=': 'int32_t' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\bullet.cpp(455,42): warning C4244: '=': 'int32_t' から 'float' への変換です。データが失われる可能性があります。
+  camera.cpp
+  collision.cpp
+  cutin.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\cutin.cpp(227,28): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\cutin.cpp(228,28): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\cutin.cpp(236,33): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\cutin.cpp(378,24): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  damage.cpp
+  debugproc.cpp
+  effect.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\effect.cpp(259,110): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\effect.cpp(406,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\effect.cpp(407,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\effect.cpp(436,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\effect.cpp(437,14): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  enemy.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(147,3): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(370,22): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(369,22): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(518,18): warning C4244: '初期化中': 'int32_t' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(579,43): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(580,43): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(697,40): warning C4244: '=': 'int32_t' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(698,40): warning C4244: '=': 'int32_t' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(729,15): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(730,48): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  exit.cpp
+  fade.cpp
+  file.cpp
+  gameover.cpp
+  hpBar.cpp
+  icon.cpp
+  input.cpp
+  item.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\item.cpp(157,92): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\item.cpp(157,64): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  main.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\effect.h(16,1): warning C4005: 'EFFECT_MAX': マクロが再定義されました。
+C:\Users\User\Desktop\就職活動\Project-Cyber\cutin.h(16): message : 'EFFECT_MAX' の以前の定義を確認してください
+  コンパイル中...
+  math.cpp
+  pause.cpp
+  player.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\player.cpp(379,16): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\player.cpp(429,48): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\player.cpp(429,28): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\player.cpp(619,50): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  progress.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\progress.cpp(130,13): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\User\Desktop\就職活動\Project-Cyber\progress.cpp(131,17): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+  renderer.cpp
+  result.cpp
+  score.cpp
+C:\Users\User\Desktop\就職活動\Project-Cyber\score.cpp(192,22): warning C4305: '=': '__int64' から 'int' へ切り詰めます。
+C:\Users\User\Desktop\就職活動\Project-Cyber\score.cpp(192,13): warning C4309: '=': 定数値が切り捨てられました。
+  slow.cpp
+  sound.cpp
+  sprite.cpp
+  stop.cpp
+  title.cpp
+  UI.cpp
+  waveController.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+  All 235 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  ProjectCyber.vcxproj -> C:\Users\User\Desktop\就職活動\Project-Cyber\x64\Release\ProjectCyber.exe
