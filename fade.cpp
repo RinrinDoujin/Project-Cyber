@@ -17,7 +17,7 @@
 #define TEXTURE_HEIGHT				(SCREEN_HEIGHT)	// 
 #define TEXTURE_MAX					(1)				// テクスチャの数
 
-#define	FADE_RATE					(0.02f)			// フェード係数
+#define	FADE_RATE					(0.05f)			// フェード係数
 
 //*****************************************************************************
 // プロトタイプ宣言
@@ -139,6 +139,7 @@ void UpdateFade(void)
 			}
 
 		}
+
 		else if (g_Fade == FADE_IN)
 		{// フェードイン処理
 			g_Color.w -= FADE_RATE;		// α値を減算して画面を浮き上がらせる

@@ -14,7 +14,7 @@
 // フェードの状態
 typedef enum
 {
-	FADE_NONE = 0,		// 何もない状態
+	FADE_NONE = 0,		// フェードしない（セットモードだけ）
 	FADE_IN,			// フェードイン処理
 	FADE_OUT,			// フェードアウト処理
 	FADE_MAX

@@ -6,6 +6,8 @@
 //=============================================================================
 #include "sound.h"
 
+#define	VOLUME		0.05f
+
 //*****************************************************************************
 // パラメータ構造体定義
 //*****************************************************************************
@@ -67,6 +69,8 @@ SOUNDPARAM g_aParam[SOUND_LABEL_MAX] =
 
 	{ (char*)"data/SE/pause.wav", 0 },		// PAUSE
 };
+
+static float g_Volume;
 
 //=============================================================================
 // 初期化処理
@@ -203,6 +207,8 @@ bool InitSound(HWND hWnd)
 		g_apSourceVoice[nCntSound]->SubmitSourceBuffer(&buffer);
 	}
 
+	g_Volume = VOLUME;
+
 	return true;
 }
 
@@ -269,6 +275,9 @@ void PlaySound(int label)
 		// オーディオバッファの削除
 		g_apSourceVoice[label]->FlushSourceBuffers();
 	}
+
+	// ボリュームをセット
+	g_apSourceVoice[label]->SetVolume(g_Volume);
 
 	// オーディオバッファの登録
 	g_apSourceVoice[label]->SubmitSourceBuffer(&buffer);

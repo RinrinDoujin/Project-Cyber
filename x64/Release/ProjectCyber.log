@@ -1,4 +1,5 @@
-﻿  bg.cpp
+﻿  UI.cpp
+  bg.cpp
   bossHp.cpp
   building.cpp
 C:\Users\User\Desktop\就職活動\Project-Cyber\building.cpp(89,32): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
@@ -50,10 +51,10 @@ C:\Users\User\Desktop\就職活動\Project-Cyber\enemy.cpp(730,48): warning C424
   item.cpp
 C:\Users\User\Desktop\就職活動\Project-Cyber\item.cpp(157,92): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
 C:\Users\User\Desktop\就職活動\Project-Cyber\item.cpp(157,64): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  コンパイル中...
   main.cpp
 C:\Users\User\Desktop\就職活動\Project-Cyber\effect.h(16,1): warning C4005: 'EFFECT_MAX': マクロが再定義されました。
 C:\Users\User\Desktop\就職活動\Project-Cyber\cutin.h(16): message : 'EFFECT_MAX' の以前の定義を確認してください
-  コンパイル中...
   math.cpp
   pause.cpp
   player.cpp
@@ -74,10 +75,10 @@ C:\Users\User\Desktop\就職活動\Project-Cyber\score.cpp(192,13): warning C430
   sprite.cpp
   stop.cpp
   title.cpp
-  UI.cpp
   waveController.cpp
   コード生成しています。
-  Previous IPDB not found, fall back to full compilation.
-  All 235 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  23 of 235 functions ( 9.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
   コード生成が終了しました。
   ProjectCyber.vcxproj -> C:\Users\User\Desktop\就職活動\Project-Cyber\x64\Release\ProjectCyber.exe

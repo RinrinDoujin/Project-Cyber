@@ -10,6 +10,10 @@
 #pragma warning(push)
 #pragma warning(disable:4005)
 
+#ifdef _DEBUG
+#define _CRTDBG_MAP_ALLOC				// メモリリーク
+#endif // _DEBUG
+
 #define _CRT_SECURE_NO_WARNINGS			// scanf のwarning防止
 #include <stdio.h>
 
@@ -19,6 +23,11 @@
 #include <math.h>
 
 #include <DirectXMath.h>
+
+#ifdef _DEBUG							// メモリリーク
+#include <crtdbg.h>
+#define new  ::new(_NORMAL_BLOCK, __FILE__, __LINE__)
+#endif
 
 
 // 本来はヘッダに書かない方が良い
